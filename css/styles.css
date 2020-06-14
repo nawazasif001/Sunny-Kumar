@@ -83,6 +83,24 @@ p{
     margin-right:30px ;
     border-radius: 100%;
 }
+.communication{
+width: 20%;
+float: left;
+margin-right:30px ;
+border-radius: 100%;
+}
+.decision{
+    width: 20%;
+float: right;
+margin-right:30px ;
+border-radius: 100%;
+}
+.time{
+    width: 20%;
+float: left;
+margin-right:30px ;
+border-radius: 100%;
+}
 .driving{
     width: 30%;
     float: right;
